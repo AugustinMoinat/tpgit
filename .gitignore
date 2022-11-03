@@ -1,0 +1,8 @@
+*~
+*.bak
+*.log
+java/.class
+java/.html
+tmp/
+*.txt
+!README.txt
