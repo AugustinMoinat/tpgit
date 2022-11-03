@@ -6,3 +6,4 @@ java/.html
 tmp/
 *.txt
 !README.txt
+*.orig
